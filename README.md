@@ -7,9 +7,11 @@ This readme will provide additional technical guidance based on recent workshops
 
 ## The Primary Scenario
 
-(1) Some broker users have provided access to the Brokerage’s commercial book.
+(1) Some broker user(s) have provided access to the Brokerage’s commercial book data, to which our BWB product performs Alpha anlaysis. 
 
-(2) The analysis output of Alpha creates a universe of commercial opportunities (a list of companies that have been priced.
+(2) The analysis output of Alpha creates a universe of commercial opportunities (a list of companies that have been priced).
+
+NOTE: Step 2 is the end of the 'Alpha' free trial, and requires a BWB enterprise subscription to continue onto step 3. 
 
 (3) That universe or segments of that universe, from within BWB, can be ‘batch quoted’ in the markets to which they have appointments.
 
