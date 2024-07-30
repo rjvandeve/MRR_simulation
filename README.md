@@ -11,7 +11,7 @@ This readme will provide additional technical guidance based on recent workshops
 
 (2) The analysis output of Alpha creates a universe of commercial opportunities (a list of companies that have been priced).
 
-NOTE: Step 2 is the end of the 'Alpha' free trial, and requires a BWB enterprise subscription to continue onto step 3. 
+**NOTE:** Step 2 is the end of the 'Alpha' free trial, and requires a BWB enterprise subscription to continue onto step 3. 
 
 (3) That universe or segments of that universe, from within BWB, can be ‘batch quoted’ in the markets to which they have appointments.
 
